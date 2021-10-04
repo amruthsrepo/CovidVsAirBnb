@@ -41,4 +41,5 @@ Build an alerting system such that the retail industry can take a look at and ma
 **Data Source**
 
 Airbnb dataset http://insideairbnb.com/get-the-data.html
+
 John Hopkins Covid Dataset https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
