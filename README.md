@@ -16,7 +16,7 @@ The project is mainly focused on analyzing/discussing how Airbnb or the hotel bu
 
 This calls for combining different datasets and doing a trend analysis. Datasets are needed to be cleaned, analyzed and put into a required form to draw correlations.
 
-The datasets used will be the John Hopkins dataset for covid data and AirBnb dataset for hotel listings. More datasets from the retail sector might be included in the future.
+The datasets used will be the John Hopkins dataset for Covid-19 data and Airbnb dataset for hotel listings. More datasets from the retail sector might be included in the future.
 
 This project will belong to the domains of pandemic and retail.
 
