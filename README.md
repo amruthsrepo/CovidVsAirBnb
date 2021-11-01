@@ -33,4 +33,4 @@ Considering datasets from other industries and study the following:
 
 Airbnb dataset http://insideairbnb.com/get-the-data.html
 
-John Hopkins Covid Dataset https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+The New York Times Covid Dataset https://github.com/nytimes/covid-19-data
