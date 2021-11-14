@@ -34,3 +34,9 @@ Considering datasets from other industries and study the following:
 Airbnb dataset http://insideairbnb.com/get-the-data.html
 
 The New York Times Covid Dataset https://github.com/nytimes/covid-19-data
+
+
+
+![image](https://user-images.githubusercontent.com/91858789/141694218-d9d51fb3-9174-4bac-babd-8b290ec12a30.png)
+
+
