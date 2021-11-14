@@ -17,7 +17,7 @@ of our datasets.
 We will be using John Hopkins dataset for covid 19 and the Airbnb dataset for hotel listings. More datasets from other industries will be included in the future. This project will fall into the category of pandemic and hospitality industry.
 
 
-Instead of using a single county , we have used 7 different counties from 7 different  cities to understand the trends across the USA.
+Instead of using a single city/county , we have used 7 different counties/cities (Austin,Broward,Cook,Denver,LosAngeles,NewYorkCity,Suffolk) From states like([Texas,Florida, Illinois,Colorado,California,New York,Massachusetts) respectively to understand the trends across the USA.
  
 **Research questions:**
 
