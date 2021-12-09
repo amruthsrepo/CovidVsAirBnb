@@ -66,7 +66,7 @@ We are changing the column type of date to Datetime
 
 **Austin Sales vs Cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694218-d9d51fb3-9174-4bac-babd-8b290ec12a30.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/Austin_sales_vs_cases.png)
 
 From April 2020 sales are decreasing and Covid19 cases are increasing as this is the first wave of Covid19 and most of the world is in lockdown.
 The second wave is completed somewhere in October and the sales are increasing at a faster pace. After that in January 2021 cases started increasing due to the holiday season and new variants of the virus started infecting more people and sales are decreasing from January.
@@ -78,7 +78,7 @@ From May 2021 till July, most of the people who are already vaccinated and which
 
 **Broward Sales vs Cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694273-f74684c3-47ab-4c67-a548-62fa4b0134b9.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/Broward_sales_vs_cases.png)
 
 
 From April 2020 sales are decreasing and Covid19 cases are increasing as this is the first wave of Covid19 and most of the world is in lockdown.
@@ -88,7 +88,7 @@ After July 2021 still, new variants from other countries are spreading so cases 
 
 **Cook County sales vs Cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694292-4c84cdc6-2d46-4def-a570-0130b40b8556.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/Cook_sales_vs_cases.png)
 
 From April 2020 sales are decreasing and Covid19 cases are increasing as this is the first wave of Covid19 and most of the world is in lockdown.
 Covid19 cases are in increasing trend till the second wave was completed after the second wave completed from November cases are decreasing and sales are increasing. Once roll out of vaccine drastic decreasing on covid cases.
@@ -96,7 +96,7 @@ After July 2021 still, new variants from other countries are spreading so cases 
 
 **Denver sales vs cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694325-09dab57a-2c9c-4623-9fbc-f1716cea52f4.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/Denver_sales_vs_cases.png)
 
 From April 2020 sales are decreasing and Covid19 cases are increasing as this is the first wave of Covid19 and most of the world is in lockdown.
 the decrease in the Covid19 trend after Nov 2020 is due to more restrictions in Colorado city and its counties which make the fall of Covid19 cases.
@@ -104,7 +104,7 @@ After July 2021 still, new variants from other countries are spreading so cases 
 
 **New York  sales vs Cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694344-80452f23-5ead-48e6-a8f9-01e96a6ebe48.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/NewYorkCity_sales_vs_cases.png)
 
 
 From April 2020 sales are decreasing and Covid19 cases are increasing as this is the first wave of Covid19 and most of the world is in lockdown. From April 2020 sales are increasing as cases are un decreasing trend. After September cases started increasing where sales started decreasing due to schools reopening and election campaigns in the Newyork city.
@@ -113,7 +113,7 @@ After July 2021 still, new varients from other countries are spreading so cases 
 
 **Los Angles sales vs Cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694365-ca759032-2676-4d28-9d00-4dacdc702023.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/LosAngeles_sales_vs_cases.png)
 
 
 The cases are in constant increase trend till whole year 202 due to elections the first wave, second wave and sales are on constant decrease trend. Once the vaccine is rolled out cases are stabilized and sales are increased. After July 2021 still, new varients from other countries are spreading so cases are increasing, and as there are fewer lockdown norms sales also increasing
@@ -121,7 +121,7 @@ The cases are in constant increase trend till whole year 202 due to elections th
 
 **Sufflock sales vs cases:**
 
-![image](https://user-images.githubusercontent.com/91858789/141694379-52b319dc-e433-41c7-af63-02a3205b94bb.png)
+![image](https://github.com/amruthsrepo/ITCS-6162_KDD_project/blob/main/Images/Suffolk_sales_vs_cases.png)
 
 
 The cases increased in the first wave and for some time after the first wave cases decreased, once the second wave started and due to election campaign cases increased. Vaccine rollout helped the sales to some extend After July 2021 still new varients from other countries are spreading so cases are increasing and as there are fewer lockdown norms sales also increasing.
