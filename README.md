@@ -106,3 +106,11 @@ Sufflock sales vs cases:
 
 
 The cases incresed in first wave and for some time after first wave cases decreased , once second wave started and due  election campigne cases increased. Vaccine roll out helped the sales to some extentend After July 2021 still new varients from other countires are spreading so cases are increasing and as there are less lockdown norms sales also increasing.
+
+**Conclusion**
+
+
+
+**Future Scope**
+
+The data for both the sales and covid is very limited. So the accuracy for our model prediction was very less. So in the future we can create synthetic data from the past data and can improve the accuracy.
