@@ -16,7 +16,7 @@ hospitality industry by processing, exploring, and performing in-depth analyses
 of our datasets.
 We are using The New York Times dataset for covid 19 and the Airbnb dataset for hotel listings. This project falls into the category of pandemic and hospitality industry.  
 
-Instead of using a single city/county, we have used 7 different counties/cities (Austin, Broward, Cook, Denver, Los Angeles, NewYorkCity, Suffolk ) from states like( Texas, Florida, Illinois, Colorado, California, New York, Massachusetts) respectively to understand the trends across the USA.
+Instead of using a single city/county, we have used 7 different counties/cities (Austin, Broward, Cook, Denver, Los Angeles, NewYorkCity, Suffolk) from states like( Texas, Florida, Illinois, Colorado, California, New York, Massachusetts) respectively to understand the trends across the USA.
  
 ## Research questions:
 
