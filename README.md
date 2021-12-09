@@ -55,7 +55,7 @@ We are using the date county and cases columns for our prediction.
 As the Covid data was complete and without any flaw we didn’t use any imputation.  
 We have filtered the data based on county and have used data from Austin, Broward, Cook, Denver, Los Angeles, New York City, Suffolk) From states like (Texas, Florida, Illinois, Colorado, California, New York, Massachusetts).  
 
-### Airbnb Dataset-**
+### Airbnb Dataset-
 
 We are taking the Airbnb hotel review dataset - http://insideairbnb.com/get-the-data.html  
 based on the listing_id and date.  
@@ -94,7 +94,7 @@ From June 2020  covid cases are in decreasing trend and sales are in increasing 
 After July 2021 still new variants from other countries are spreading so cases are increasing and as there are less lockdown norms sales also increasing.
 
 
-Cook County sales vs Cases :
+**Cook County sales vs Cases :**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694292-4c84cdc6-2d46-4def-a570-0130b40b8556.png)
 
@@ -102,7 +102,7 @@ From April 2020 sales are decreasing and Covid19 cases are increasing as this th
 Covid19 cases are in increasing trend till second wave was completed , after second wave completed from November cases are decreasing and sales are increasing. Once roll out of vaccine drastic decreading on covid cases.
 After July 2021 still new variants from other countries are spreading so cases are increasing and as there are less lockdown norms sales also increasing.
 
-Denver sales vs cases:
+**Denver sales vs cases:**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694325-09dab57a-2c9c-4623-9fbc-f1716cea52f4.png)
 
@@ -110,7 +110,7 @@ From April 2020 sales are decreasing and Covid19 cases are increasing as this th
 the decrease in Covid19 trend after Nov 2020 is due to more restrictions in Colorado city and it's counties which make the fall of Covid19 cases.
 After July 2021 still new variants from other countries are spreading so cases are increasing and as there are less lockdown norms sales also increasing.
 
-New York  sales vs Cases :
+**New York  sales vs Cases :**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694344-80452f23-5ead-48e6-a8f9-01e96a6ebe48.png)
 
@@ -119,7 +119,7 @@ From April 2020 sales are decreasing and Covid19 cases are increasing as this th
 After July 2021 still new varients from other countires are spreading so cases are increasing and as there are less lockdown norms sales also increasing.
 
 
-Los Angles sales vs Cases:
+**Los Angles sales vs Cases:**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694365-ca759032-2676-4d28-9d00-4dacdc702023.png)
 
@@ -127,7 +127,7 @@ Los Angles sales vs Cases:
 The cases are in constant increase trend till whole year 202 due to elections first wave , second wave and sales are on constant decrease trend. Once vaccine is rolled out cases are stalized and sales are increased. After July 2021 still new varients from other countires are spreading so cases are increasing and as there are less lockdown norms sales also increasing
 
 
-Sufflock sales vs cases: 
+**Sufflock sales vs cases:**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694379-52b319dc-e433-41c7-af63-02a3205b94bb.png)
 
