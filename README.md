@@ -10,11 +10,11 @@ Student 4: Vasu Tiwari
  
 ## Introduction:
 
-Covid-19 has affected every sector across the globe. In this project, we will focus on how
-covid-19 affected the hospitality industry.  Our goal is to analyze the effect on the
+Covid-19 has affected every sector across the globe. In this project, we are focusing on how
+Covid-19 has affected the hospitality industry.  Our goal is to analyze the effect on the
 hospitality industry by processing, exploring, and performing in-depth analyses
 of our datasets.
-We will be using John Hopkins dataset for covid 19 and the Airbnb dataset for hotel listings. More datasets from other industries will be included in the future. This project will fall into the category of pandemic and hospitality industry.  
+We are using The New York Times dataset for covid 19 and the Airbnb dataset for hotel listings. This project falls into the category of pandemic and hospitality industry.  
 
 Instead of using a single city/county, we have used 7 different counties/cities (Austin, Broward, Cook, Denver, Los Angeles, NewYorkCity, Suffolk ) from states like( Texas, Florida, Illinois, Colorado, California, New York, Massachusetts) respectively to understand the trends across the USA.
  
@@ -130,7 +130,7 @@ The cases increased in the first wave and for some time after the first wave cas
 
 We are combining the Airbnb and Covid datasets into one dataset and visualizing the sales based on the number of cases. When combining the data frames we are dropping null valued data.
 We have used Evaluation metrics to find the accuracy of the matrix. An evaluation metric quantifies the performance of a predictive model. This typically involves training a model on a dataset, using the model to make predictions on a holdout dataset not used during training, then comparing the predictions to the expected values in the holdout dataset
-With Scikit-Learn it is extremely straightforward to implement linear regression models, as all you really need to do is import the Linear Regression class, instantiate it, and call the fit() method along with our training data. So we can use a machine learning library to train on your data.
+With Scikit-Learn it is extremely straightforward to implement linear regression models, as all you need to do is import the Linear Regression class, instantiate it, and call the fit() method along with our training data. So we can use a machine learning library to train on your data.
 
 We have applied our model to 7 different states or cities, out of which the best result is in Broward. And the rest of the city's results are not up to the mark.
 
