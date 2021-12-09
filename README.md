@@ -59,7 +59,7 @@ date – date of the review.
 **Dealing with imbalance-**
 Based on our requirements we have taken Airbnb data from the below counties.  
 Austin, Broward, Cook, Denver, Los Angeles, New York City, Suffolk  
-And have taken the sales count from 2017-01-01 to 2020-01-01 to provide data and after 2020-03-01 to visualize the after-pandemic situation.  
+And have taken the sales count from 2017-01-01 to 2020-01-01 for pre-pandemic and after 2020-03-01 to visualize the after-pandemic situation.  
 We are changing the column type of date to Datetime
 
 ## Visualizations :
