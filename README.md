@@ -1,4 +1,4 @@
-**Group 10**
+# Group 10
 
 Student 1: Amruth Nag
 
@@ -8,7 +8,7 @@ Student 3: Naveen kumar kannegundla
 
 Student 4: Vasu Tiwari
  
-**Introduction:**
+## Introduction:
 
 Covid-19 has affected every sector across the globe. In this project, we will focus on how
 covid-19 affected the hospitality industry.  Our goal is to analyze the effect on the
@@ -19,33 +19,60 @@ We will be using John Hopkins dataset for covid 19 and the Airbnb dataset for ho
 
 Instead of using a single city/county , we have used 7 different counties/cities (Austin,Broward,Cook,Denver,LosAngeles,NewYorkCity,Suffolk) From states like([Texas,Florida, Illinois,Colorado,California,New York,Massachusetts) respectively to understand the trends across the USA.
  
-**Research questions:**
+## Research questions:
 
 1. What is the correlation between covid-19 cases and hotel bookings in California? What does the comparison between the trends look like for the post and pre-pandemic data?
 2. Has the number of covid-19 cases affected the pricing of the listings in New york? If yes, what is the correlation?
 3. Are there any anomalies in the observed trends in California? If yes, what are the factors that caused this?
  
-**Future work:**
+## Future work:
 
 Considering datasets from other industries and study the following:
 
 1. The effect of the pandemic on these industries.
 2. Studying the correlation between these industries.
 
-**Data Source**
+## Data Source and Preparing
 
-Airbnb dataset http://insideairbnb.com/get-the-data.html
+### Covid dataset 
 
-The New York Times Covid Dataset https://github.com/nytimes/covid-19-data
+We have taken open source Covid dataset from The New York Times - https://github.com/nytimes/covid-19-data
 
+The dataset is the past 1-year Covid dataset which is county-based.
 
+Columns in dataset
+‘date' – Date of record  
+'county' – County name  
+'state' – State in which county is located  
+'fips' - numbers that uniquely identify geographic areas  
+'cases' – The total number of cases of Covid-19.  
+'deaths’ - The total number of deaths from Covid-19.  
 
+**Dealing with imbalance –**
 
+We have used a nullity matrix to select the most complete columns.  
+We are using the date county and cases columns for our prediction.  
+As the Covid data was complete and without any flaw we didn’t use any imputation.  
+We have filtered the data based on county and have used data from Austin, Broward, Cook, Denver, Los Angeles, New York City, Suffolk) From states like (Texas, Florida, Illinois, Colorado, California, New York, Massachusetts).  
 
-Visualizations :
+### Airbnb Dataset-**
 
+We are taking the Airbnb hotel review dataset - http://insideairbnb.com/get-the-data.html  
+based on the listing_id and date.  
 
-Austin Sales vs Cases :
+Columns in dataset  
+listing_id – unique id of any hotel.  
+date – date of the review.  
+
+**Dealing with imbalance-**
+Based on our requirements we have taken Airbnb data from the below counties.  
+Austin, Broward, Cook, Denver, Los Angeles, New York City, Suffolk  
+And have taken the sales count from 2017-01-01 to 2020-01-01 to provide data and after 2020-03-01 to visualize the after-pandemic situation.  
+We are changing the column type of date to Datetime
+
+## Visualizations :
+
+**Austin Sales vs Cases :**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694218-d9d51fb3-9174-4bac-babd-8b290ec12a30.png)
 
@@ -57,7 +84,7 @@ From May 2021 till July  , most of the people who are already vaccinated and whi
 
 
 
-Broward Sales vs Cases :
+**Broward Sales vs Cases :**
 
 ![image](https://user-images.githubusercontent.com/91858789/141694273-f74684c3-47ab-4c67-a548-62fa4b0134b9.png)
 
